@@ -1,5 +1,4 @@
 name: Auto News Update — Brahma News 24
-
 on:
   schedule:
     - cron: '0 */6 * * *'  # Har 6 ghante mein automatically chalega
@@ -18,7 +17,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
           pip install feedparser anthropic requests
 
@@ -27,10 +26,24 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python news_agent.py
 
-      - name: Generate Website HTML
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python build_website.py
+      - name: Copy news data to React app
+        run: |
+          cp news_data.json brahmanews24-cinematic-platform/public/news_data.json
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install React dependencies
+        run: |
+          cd brahmanews24-cinematic-platform
+          npm install
+
+      - name: Build React Website
+        run: |
+          cd brahmanews24-cinematic-platform
+          npm run build
 
       - name: Deploy to Cloudflare Pages
         env:
@@ -38,12 +51,12 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           npm install -g wrangler
-          wrangler pages deploy dist/ --project-name=brahmanews24 --branch=main
+          wrangler pages deploy brahmanews24-cinematic-platform/dist/ --project-name=brahmanews24 --branch=main
 
       - name: Commit news data
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Brahma News Bot"
-          git add news_data.json
+          git add news_data.json brahmanews24-cinematic-platform/public/news_data.json
           git diff --staged --quiet || git commit -m "🤖 Auto news update: $(date '+%Y-%m-%d %H:%M')"
           git push
