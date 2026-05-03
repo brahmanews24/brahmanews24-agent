@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "brahmanews24-site",
+  "compatibility_date": "2026-05-03",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "brahmanews24-cinematic-platform"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
