@@ -1,93 +1,71 @@
 {
-  "last_updated": "2026-09-06T10:35:07.209688",
+  "last_updated": "2026-09-06T15:11:06.753657",
   "news": [
     {
       "id": 1,
-      "title": "Upper Bhadra Project: Trial run to Chitradurga branch canal begins",
-      "excerpt": "Three TMC of water is being released as part of the trial run, launched at the project’s intake point on the Bhadra reservoir",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.thehindu.com/news/national/karnataka/upper-bhadra-project-trial-run-to-chitradurga-branch-canal-begins/article71434716.ece",
-      "published": "Sun, 06 Sep 2026 16:00:31 +0530",
-      "timestamp": "2026-09-06T10:35:07.207800",
-      "image_index": 1
-    },
-    {
-      "id": 2,
-      "title": "शाह बोले- नक्सलवाद के बाद नशा भी खत्म करेंगे:रेड कॉरिडोर की कल्पना करने वालों ने हथियार डाले; नॉर्थईस्ट में 10000 युवाओं ने आत्मसमर्पण किया",
-      "excerpt": "केंद्रीय मंत्री अमित शाह ने रविवार को गोवा में कहा कि सरकार ने नक्सलवाद खत्म कर दिया है। अब नशीले पदार्थों की समस्या से भी उसी तरह निपटा जाएगा। उन्हों",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.bhaskar.com/g/national/news/amit-shah-goa-naxalism-northeast-youth-surrender-statement-138949815.html",
-      "published": "Sun, 06 Sep 2026 09:58:10 +0000",
-      "timestamp": "2026-09-06T10:35:07.208095",
-      "image_index": 2
-    },
-    {
-      "id": 3,
-      "title": "On Camera, Hospital Staff Assaulted By Shiv Sena Workers Over Bill Dispute",
-      "excerpt": "The incident occurred at a hospital in Palghar past midnight on Sunday.",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/india-news/on-camera-hospital-staff-assaulted-by-sena-workers-after-bill-dispute-12008522#publisher=newsstand",
-      "published": "Sun, 06 Sep 2026 15:23:16 +0530",
-      "timestamp": "2026-09-06T10:35:07.208361",
-      "image_index": 3
-    },
-    {
-      "id": 4,
-      "title": "\"Cave Classroom\": How Mustafa Kamal Brought Tech-Enabled Social Science To Remote Areas",
-      "excerpt": "Kamal further stated that teaching geography in Ladakh involves dynamic methods.",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/education/cave-classroom-how-mohd-mustafa-kamal-brought-tech-enabled-social-science-to-remote-areas-12009058#publisher=newsstand",
-      "published": "Sun, 06 Sep 2026 15:23:06 +0530",
-      "timestamp": "2026-09-06T10:35:07.208651",
-      "image_index": 4
-    },
-    {
-      "id": 5,
-      "title": "Delhi Building Collapse LIVE Updates: 6 Rescued From Rubble After Building Collapses, NDRF Continues Search",
-      "excerpt": "Delhi Building Collapse News LIVE Updates: Satya Niketan is a densely populated area that houses a large number of students, particularly those studyi",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/india-news/delhi-building-collapse-live-updates-rescue-teams-race-to-save-people-trapped-under-debris-in-satya-niketan-12008905#publisher=newsstand",
-      "published": "Sun, 06 Sep 2026 15:22:09 +0530",
-      "timestamp": "2026-09-06T10:35:07.208902",
-      "image_index": 5
-    },
-    {
-      "id": 6,
-      "title": "Several Feared Trapped After 6-Storey Building Collapses In Delhi",
+      "title": "3 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
       "excerpt": "An eyewitness said at least 50 students were believed to be inside the building when the collapse occurred.",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
       "source_link": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand",
-      "published": "Sun, 06 Sep 2026 15:22:02 +0530",
-      "timestamp": "2026-09-06T10:35:07.209145",
+      "published": "Sun, 06 Sep 2026 20:10:40 +0530",
+      "timestamp": "2026-09-06T15:11:06.752307",
+      "image_index": 1
+    },
+    {
+      "id": 2,
+      "title": "Delhi Building Collapse LIVE Updates: Case Against Building Owner, PM Modi Condoles Deaths",
+      "excerpt": "Delhi Building Collapse News LIVE Updates: Satya Niketan is a densely populated area that houses a large number of students, particularly those studyi",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/delhi-building-collapse-live-updates-rescue-teams-race-to-save-people-trapped-under-debris-in-satya-niketan-12008905#publisher=newsstand",
+      "published": "Sun, 06 Sep 2026 19:51:15 +0530",
+      "timestamp": "2026-09-06T15:11:06.752626",
+      "image_index": 2
+    },
+    {
+      "id": 3,
+      "title": "Woman Comments On Sister-In-Law's Brother. Gets Killed, Body Dumped In Tank",
+      "excerpt": "The victim (left) was stabbed to death by her sister-in-law.",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/woman-comments-on-sister-in-laws-brother-gets-killed-body-dumped-in-tank-12009727#publisher=newsstand",
+      "published": "Sun, 06 Sep 2026 19:39:12 +0530",
+      "timestamp": "2026-09-06T15:11:06.752884",
+      "image_index": 3
+    },
+    {
+      "id": 4,
+      "title": "WBJEE 2026 Decentralised Counselling Begins Soon: Check Schedule And Seat Rules",
+      "excerpt": "WBJEEB has released the DCAP-2026 visual summary for decentralised counselling.",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/education/wbjee-2026-decentralised-counselling-begins-soon-check-schedule-and-seat-rules-12009627#publisher=newsstand",
+      "published": "Sun, 06 Sep 2026 19:22:30 +0530",
+      "timestamp": "2026-09-06T15:11:06.753136",
+      "image_index": 4
+    },
+    {
+      "id": 5,
+      "title": "5 Myanmar Nationals Arrested in Arunachal Amid Crackdown On Drug Trade",
+      "excerpt": "Recently Arunachal Pradesh Police arrested two Myanmar nationals near Nongkey Village.",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/5-myanmar-nationals-arrested-in-arunachal-amid-crackdown-on-drug-trade-12009649#publisher=newsstand",
+      "published": "Sun, 06 Sep 2026 18:31:35 +0530",
+      "timestamp": "2026-09-06T15:11:06.753404",
+      "image_index": 5
+    },
+    {
+      "id": 6,
+      "title": "YSRCP accuses govt. of blocking its social media accounts",
+      "excerpt": "It will not deter the party from pursuing the ‘DSC irregularities’ issue and taking its campaign to other platforms, says Putta Siva Shankar",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-govt-of-blocking-its-social-media-accounts/article71435106.ece",
+      "published": "Sun, 06 Sep 2026 20:32:52 +0530",
+      "timestamp": "2026-09-06T15:11:06.753647",
       "image_index": 6
-    },
-    {
-      "id": 7,
-      "title": "What An Ancient Tamil Way Of Life Can Teach Us About Living With Nature",
-      "excerpt": "Nepal Police personnel conduct search and rescue operation following the flash floods",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/india-news/what-an-ancient-tamil-way-of-life-can-teach-us-about-living-with-nature-12008790#publisher=newsstand",
-      "published": "Sun, 06 Sep 2026 15:11:19 +0530",
-      "timestamp": "2026-09-06T10:35:07.209385",
-      "image_index": 7
-    },
-    {
-      "id": 8,
-      "title": "Andhra Congress chief Sharmila announces daughter Anjili’s marriage to U.S.-based doctor",
-      "excerpt": "The groom is the son of Somala Subba Reddy and Somala Padma Reddy, and his family hails from Kurnool district and has settled in the United States",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.thehindu.com/news/cities/Vijayawada/andhra-congress-chief-sharmila-announces-daughter-anjilis-marriage-to-us-based-doctor/article71434886.ece",
-      "published": "Sun, 06 Sep 2026 15:44:17 +0530",
-      "timestamp": "2026-09-06T10:35:07.209678",
-      "image_index": 8
     }
   ]
 }
