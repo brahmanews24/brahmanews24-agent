@@ -1,70 +1,70 @@
 {
-  "last_updated": "2026-10-04T21:03:03.899299",
+  "last_updated": "2026-10-05T04:50:34.340618",
   "news": [
     {
       "id": 1,
+      "title": "Uttar Pradesh's Bhadohi District Renamed As Sant Ravidas Nagar Bhadohi",
+      "excerpt": "Uttar Pradesh Chief Minister Yogi Adityanath renames Bhadohi district as Sant Ravidas Nagar Bhadohi.",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/uttar-pradeshs-bhadohi-district-renamed-as-sant-ravidas-nagar-bhadohi-12138193#publisher=newsstand",
+      "published": "Mon, 05 Oct 2026 07:43:05 +0530",
+      "timestamp": "2026-10-05T04:50:34.339848",
+      "image_index": 1
+    },
+    {
+      "id": 2,
       "title": "Single-Use Plastic Bottles Banned At Delhi's Sports Complexes",
       "excerpt": "The DDA has also rolled out three initiatives to improve cleanliness at parks and other public spaces.",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
       "source_link": "https://www.ndtv.com/india-news/single-use-plastic-bottles-banned-at-delhis-sports-complexes-12138402#publisher=newsstand",
       "published": "Mon, 05 Oct 2026 00:03:12 +0530",
-      "timestamp": "2026-10-04T21:03:03.898253",
-      "image_index": 1
+      "timestamp": "2026-10-05T04:50:34.340046",
+      "image_index": 2
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "'LoRa' A New Security Challenge In Kashmir: Terrorists Using Advanced Tech",
       "excerpt": "These devices are not locally assembled. They come pre-configured, pre-encrypted.",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
       "source_link": "https://www.ndtv.com/india-news/terrorists-in-kashmir-found-using-advanced-communication-device-lora-12138286#publisher=newsstand",
       "published": "Mon, 05 Oct 2026 00:03:00 +0530",
-      "timestamp": "2026-10-04T21:03:03.898540",
-      "image_index": 2
+      "timestamp": "2026-10-05T04:50:34.340203",
+      "image_index": 3
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "In Assam's Dhemaji, Grazing Land Being Developed As Village Forest",
       "excerpt": "Amidst the lush greenery of Bardoloni in Dhemaji lies the Maghuwa Hola.",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
       "source_link": "https://www.ndtv.com/india-news/in-assams-dhemaji-grazing-land-being-developed-as-village-forest-12138343#publisher=newsstand",
       "published": "Sun, 04 Oct 2026 23:54:09 +0530",
-      "timestamp": "2026-10-04T21:03:03.898737",
-      "image_index": 3
+      "timestamp": "2026-10-05T04:50:34.340345",
+      "image_index": 4
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Human Rights Body Action Over Minors' Participation At Mumbai CJP Protest",
       "excerpt": "The allegations include the possibility that children were deliberately positioned during the protest.",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
       "source_link": "https://www.ndtv.com/india-news/human-rights-body-action-over-minors-participation-at-mumbai-cjp-protest-12138351#publisher=newsstand",
       "published": "Sun, 04 Oct 2026 23:38:28 +0530",
-      "timestamp": "2026-10-04T21:03:03.898917",
-      "image_index": 4
-    },
-    {
-      "id": 5,
-      "title": "Adani Group, Kachchh University Launch Green Energy Centre Of Excellence",
-      "excerpt": "The university-based centre will follow a structured learning model.",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/india-news/adani-group-kachchh-university-launch-green-energy-centre-of-excellence-12138346#publisher=newsstand",
-      "published": "Sun, 04 Oct 2026 23:36:03 +0530",
-      "timestamp": "2026-10-04T21:03:03.899089",
+      "timestamp": "2026-10-05T04:50:34.340483",
       "image_index": 5
     },
     {
       "id": 6,
-      "title": "Kerala High Court orders CBI probe into soldier’s disappearance 14 years ago",
-      "excerpt": "Subash Chandra Bose, a native of Vengoor in Ernakulam who was serving with the Tripura State Rifles, went missing in April 2012 while travelling by tr",
+      "title": "While KPSC flounders, KEA finishes recruitment process for 7,905 posts in four months in Karnataka",
+      "excerpt": "Candidates, who have been waiting for government jobs for years, are expected to join the Karnataka Police within the next three months",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
-      "source_link": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-cbi-to-investigate-14-year-old-case-of-a-missing-paramilitary-force-soldier/article71543550.ece",
-      "published": "Mon, 05 Oct 2026 01:24:01 +0530",
-      "timestamp": "2026-10-04T21:03:03.899288",
+      "source_link": "https://www.thehindu.com/news/national/karnataka/while-kpsc-flounders-kea-finishes-recruitment-process-for-7905-posts-in-four-months-in-karnataka/article71519426.ece",
+      "published": "Mon, 05 Oct 2026 10:10:47 +0530",
+      "timestamp": "2026-10-05T04:50:34.340609",
       "image_index": 6
     }
   ]
