@@ -1,70 +1,70 @@
 {
-  "last_updated": "2026-10-24T15:37:54.667248",
+  "last_updated": "2026-10-24T20:28:16.393642",
   "news": [
     {
       "id": 1,
-      "title": "JDU Expels MLA Anant Singh, Wife For 'Defying Orders, Campaigning For Rival'",
-      "excerpt": "Singh vowed to \"defeat\" JD(U) MLC Neeraj Kumar in the council polls.",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/india-news/defying-directives-campaigning-for-rival-jdu-expels-mla-anant-singh-wife-12230604#publisher=newsstand",
-      "published": "Sat, 24 Oct 2026 19:59:52 +0530",
-      "timestamp": "2026-10-24T15:37:47.614225",
-      "image_index": 1
-    },
-    {
-      "id": 2,
-      "title": "Stripped And 'Purified': Bengal Christian Woman Alleges Conversion Threat By Bajrang Dal",
-      "excerpt": "Police personnel posted outside the victim's home.",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/india-news/stripped-and-purified-bengal-woman-alleges-leave-christianity-threat-by-bajrang-dal-12230262#publisher=newsstand",
-      "published": "Sat, 24 Oct 2026 19:57:51 +0530",
-      "timestamp": "2026-10-24T15:37:49.031648",
-      "image_index": 2
-    },
-    {
-      "id": 3,
-      "title": "In Tiger Shroff Assassination Bid, Mumbai Police Detain 11th Suspect From Indore",
-      "excerpt": "Tiger Shroff escaped without serious injury in the October 18.",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/india-news/tiger-shroff-firing-case-mumbai-crime-branch-detains-11th-suspect-from-indore-12229712#publisher=newsstand",
-      "published": "Sat, 24 Oct 2026 19:57:00 +0530",
-      "timestamp": "2026-10-24T15:37:50.476268",
-      "image_index": 3
-    },
-    {
-      "id": 4,
-      "title": "Man Laid Off At Rs 2.9 Lakh Per Annum Now Gets Rs 1.5 Crore UAE Job Offer",
-      "excerpt": "The man has now secured a UAE job with a consulting firm, offering a package of around Rs 1.5 crore.",
-      "category": "छत्तीसगढ़",
-      "category_en": "CHHATTISGARH",
-      "source_link": "https://www.ndtv.com/education/man-laid-off-at-rs-2-9-lakh-per-annum-now-gets-rs-1-5-crore-uae-job-offer-12229928#publisher=newsstand",
-      "published": "Sat, 24 Oct 2026 19:51:51 +0530",
-      "timestamp": "2026-10-24T15:37:51.938540",
-      "image_index": 4
-    },
-    {
-      "id": 5,
-      "title": "Chandrababu Naidu's 'Kansa Mama' Jab At Jagan Reddy Over Wedding Venue Row With Sister",
+      "title": "Palace, Siblings And A 'Kansa Mama' Jibe: Jagan Reddy-Sister Row Over Wedding",
       "excerpt": "The relationship between Jagan and Sharmila has been strained for some time.",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
       "source_link": "https://www.ndtv.com/india-news/chandrababu-naidus-kansa-mama-jab-at-jagan-reddy-over-wedding-venue-row-with-sister-12230479#publisher=newsstand",
-      "published": "Sat, 24 Oct 2026 19:29:04 +0530",
-      "timestamp": "2026-10-24T15:37:53.277490",
+      "published": "Sun, 25 Oct 2026 00:43:54 +0530",
+      "timestamp": "2026-10-24T20:28:09.147150",
+      "image_index": 1
+    },
+    {
+      "id": 2,
+      "title": "India Issues Fresh Advisory For Umrah Pilgrims In Saudi Arabia",
+      "excerpt": "The consulate said it was in regular contact with Indian airlines over flight cancellations.",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/india-issues-fresh-advisory-for-umrah-pilgrims-in-saudi-arabia-12231410#publisher=newsstand",
+      "published": "Sun, 25 Oct 2026 00:42:08 +0530",
+      "timestamp": "2026-10-24T20:28:10.635315",
+      "image_index": 2
+    },
+    {
+      "id": 3,
+      "title": "Same Name Appears 10 Times On Voter Roll. 5 UP Poll Officials Get Notices",
+      "excerpt": "The UP CEO's office had sought a detailed investigation report from the DEO",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/same-name-appears-10-times-on-azamgarh-voter-roll-5-up-poll-officials-get-notices-12231409#publisher=newsstand",
+      "published": "Sun, 25 Oct 2026 00:41:50 +0530",
+      "timestamp": "2026-10-24T20:28:12.089711",
+      "image_index": 3
+    },
+    {
+      "id": 4,
+      "title": "Defence Secretary Rajesh Kumar Singh Gets One-Year Extension",
+      "excerpt": "Singh is a 1989-batch IAS officer of the Kerala cadre.",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/defence-secretary-rajesh-kumar-singh-gets-one-year-extension-12231401#publisher=newsstand",
+      "published": "Sun, 25 Oct 2026 00:38:27 +0530",
+      "timestamp": "2026-10-24T20:28:13.527864",
+      "image_index": 4
+    },
+    {
+      "id": 5,
+      "title": "Probe Agency ED Moves Top Court Against Quashing Of NewsClick Case",
+      "excerpt": "Delhi High Court had quashed the case against NewsClick and editor-in-chief Prabir Purkayastha.",
+      "category": "छत्तीसगढ़",
+      "category_en": "CHHATTISGARH",
+      "source_link": "https://www.ndtv.com/india-news/probe-agency-ed-moves-top-court-against-quashing-of-case-against-newsclick-12231393#publisher=newsstand",
+      "published": "Sun, 25 Oct 2026 00:32:43 +0530",
+      "timestamp": "2026-10-24T20:28:14.961789",
       "image_index": 5
     },
     {
       "id": 6,
-      "title": "e-Khata open houses to resume from Oct. 31",
-      "excerpt": "",
+      "title": "Amid outcry, poll body orders re-poll at three polling stations under Agra Teachers MLC seat",
+      "excerpt": "The recent developments come amid SP candidate from Agra Division, Teacher’s seat, Akash Agarwal, who has alleged extreme harassment of his supporters",
       "category": "छत्तीसगढ़",
       "category_en": "CHHATTISGARH",
-      "source_link": "https://www.thehindu.com/news/cities/bangalore/e-khata-open-houses-to-resume-from-oct-31/article71620644.ece",
-      "published": "Sat, 24 Oct 2026 21:03:26 +0530",
-      "timestamp": "2026-10-24T15:37:54.667193",
+      "source_link": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece",
+      "published": "Sun, 25 Oct 2026 01:36:48 +0530",
+      "timestamp": "2026-10-24T20:28:16.393582",
       "image_index": 6
     }
   ]
